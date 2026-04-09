@@ -21,7 +21,7 @@
         "archive": "https://github.com/ponthief/siLNt/archive/refs/tags/v1.0.0.zip",            
         "min_lnbits_version": "1.4.1",
         "repo": "https://github.com/ponthief/siLNt",
-        "hash": "94a310635e6cecd8fd48fccb8a0e74cb85f4c876c51f6b4a1f0a6b434dcf3673",
+        "hash": "9597e7344bca7bce772ab4cf7460e9fa631acaa2891faf0fd03ac3d7622b61c6",
         "icon": "https://github.com/ponthief/siLNt/raw/master/static/bitcoin-wallet.webp",
         "details_link": "https://raw.githubusercontent.com/ponthief/siLNt/master/config.json"        
         }
