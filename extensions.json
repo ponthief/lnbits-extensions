@@ -16,12 +16,12 @@
          {
         "id": "siLNt",
         "name": "BitSiLNt",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "short_description": "Spend/Receive SilentPayments in LNBits",      
-        "archive": "https://github.com/ponthief/siLNt/archive/refs/tags/v1.0.0.zip",            
+        "archive": "https://github.com/ponthief/siLNt/archive/refs/tags/v1.1.0.zip",            
         "min_lnbits_version": "1.4.1",
         "repo": "https://github.com/ponthief/siLNt",
-        "hash": "1240cd5663c44aef8abf03dcdb0448beca5698f4cd747574ad739f92fb9bd6e7",
+        "hash": "c3c6c16d91327b801a1bfc2634a991ef76083d51b34785ae1af16c18e609ae73",
         "icon": "https://github.com/ponthief/siLNt/raw/master/static/bitcoin-wallet.webp",
         "details_link": "https://raw.githubusercontent.com/ponthief/siLNt/master/config.json",
         "pay_link": "https://lnbits.bitaurus.net/paywall/api/v1/paywalls/invoice/Ea8aebPxScQdaFxkR7nUkB"
