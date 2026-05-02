@@ -24,7 +24,7 @@
         "hash": "c3c6c16d91327b801a1bfc2634a991ef76083d51b34785ae1af16c18e609ae73",
         "icon": "https://github.com/ponthief/siLNt/raw/master/static/bitcoin-wallet.webp",
         "details_link": "https://raw.githubusercontent.com/ponthief/siLNt/master/config.json",
-        // "pay_link": "https://lnbits.bitaurus.net/paywall/api/v1/paywalls/invoice/Ea8aebPxScQdaFxkR7nUkB"
+        "pay_link": "https://lnbits.bitaurus.net/paywall/api/v1/paywalls/invoice/Ea8aebPxScQdaFxkR7nUkB"
         }
     ]
 }
